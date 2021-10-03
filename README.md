@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-![CHNB128's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CHNB128&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CHNB128&show_icons=true&theme=dracula&layout=compact&langs_count=6)
+
+![CHNB128's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@CHNB128&theme=dracula)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHNB128&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 
